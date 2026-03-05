@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin-top: 5rem;
+    padding: 2rem;
+    display: flex;
+    min-height: 70vh;
+    text-align: center;
+    background: #f8c4c4;
+    width: 500px;
+    height: 300px;
+}
+#taskInput{
+    padding: 0.7rem 2rem;
+    border: none;
+}
+#addBtn{
+    padding: 0.5rem 2rem;
+    background: #230505;
+    color:#f4f4f4;
+}
